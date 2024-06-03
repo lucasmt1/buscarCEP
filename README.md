@@ -1,7 +1,7 @@
-#Desafio alura T6 One
+# Desafio alura T6 One
 
-##Descrição
+## Descrição
 Desafio para fazer uma aplicação para consultar um endereço a partir de um CEP e salvar as informações em um arquivo json.
 
-##Observação
+## Observação
 Usado Biblioteca Gson e API ViaCEP
